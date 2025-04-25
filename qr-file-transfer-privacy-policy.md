@@ -17,6 +17,21 @@ We do not collect personally identifiable information. Any information captured 
 📤 Third-Party Services
 Our App does not use third-party services that collect data used to identify you.
 
+📄 Use of Third-Party Services: Firebase
+Our app uses services provided by Firebase (by Google LLC) to improve quality, stability, and user experience. These services may collect certain technical information from your device, but they are not used to personally identify you.
+
+Crashlytics (Crash Reporting)
+We use Firebase Crashlytics to detect and report application crashes and errors. This service collects information such as your device model, operating system version, app version, and the time of the crash. This data helps us identify and fix technical issues to improve app stability.
+
+Google Analytics for Firebase
+We also use Google Analytics for Firebase to better understand how users interact with our app. This tool collects data such as in-app events, session duration, device type, country of origin, and other anonymous usage statistics. This information helps us make informed decisions to improve the app experience.
+
+You can learn more about how Google handles user data at the following links:
+
+Google Privacy Policy: https://policies.google.com/privacy
+
+Firebase Privacy and Security: https://firebase.google.com/support/privacy
+
 ✅ Your Consent
 By using our App, you agree to this privacy policy.
 
