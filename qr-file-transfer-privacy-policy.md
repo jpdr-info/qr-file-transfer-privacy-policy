@@ -1,5 +1,5 @@
 📄 Privacy Policy for QR File Transfer
-Last updated: 2025-04-25 16:00:00 -03:00
+Last updated: 2025-04-25 11:33 -03:00
 
 QR File Transfer (“we”, “our”, or “us”) operates the QR File Transfer mobile application (the “App”).
 
